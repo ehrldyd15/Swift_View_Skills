@@ -2,4 +2,4 @@
 
 | 목록 | URL |
 | ------ | ------ |
-| Nib | https://github.com/ehrldyd15/Swift_Skills/wiki/Async---await |
+| Nib | https://github.com/ehrldyd15/Swift_View_Skills/wiki/Nib |
