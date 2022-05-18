@@ -3,5 +3,5 @@
 | 목록 | URL |
 | ------ | ------ |
 | Nib | https://github.com/ehrldyd15/Swift_View_Skills/wiki/Nib |
-| View & Window | https://github.com/ehrldyd15/Swift_View_Skills/wiki/View-&-Window |
-
+| UIView & UIWindow | https://github.com/ehrldyd15/Swift_View_Skills/wiki/View-&-Window |
+| UIWindow (심화) | https://github.com/ehrldyd15/Swift_View_Skills/wiki/View-&-Window |
